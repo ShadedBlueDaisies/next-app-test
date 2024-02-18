@@ -37,6 +37,7 @@ You can use bindings during development, when previewing locally your applicatio
 
 - To use bindings in the deployed application you will need to configure them in the Cloudflare [dashboard](https://dash.cloudflare.com/). For more details see the  [Pages Bindings documentation](https://developers.cloudflare.com/pages/functions/bindings/).
 
+
 #### KV Example
 
 `c3` has added for you an example showing how you can use a KV binding.
